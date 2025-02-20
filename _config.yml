@@ -13,7 +13,7 @@ title                    : "Yuyang Liu's webpage"
 title_separator          : "-"
 name                     : &name "Yuyang Liu(刘雨扬)"
 #description              : &description "Sophomore year student from Shanghai Jiao Tong University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://Young20050706.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Young20050706/Young20050706.github.io"
 
