@@ -1,68 +1,67 @@
+---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Young Liu's Academic Website"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-## About Me
+## 关于我
 
-I am a second-year undergraduate student at the Antai College of Economics & Management, Shanghai Jiao Tong University, pursuing a dual degree in Finance and Computer Science. My academic interests are centered on Macroeconomics, Financial Technology, and Data Science.
+我是上海交通大学安泰经济与管理学院的本科生，目前正在攻读金融与计算机科学双学士学位。我的研究兴趣包括宏观经济学和外汇领域。
 
-- **Name**: Yuyang Liu
-- **Contact**: (+86) 18217515975 | Yuyang-20050706@sjtu.edu.cn
+- **姓名**：Young Liu
+- **联系方式**：(+86) 18217515975 | Young-20050706@sjtu.edu.cn
 
-### Education
+### 教育背景
 
-**Shanghai Jiao Tong University**, Shanghai, China  
-**Bachelor's Degree in Finance & Computer Science** (Sep 2023 - Present)
+**上海交通大学**，上海，中国  
+**金融与计算机科学双学士学位**（2023年9月至今）
 
-- **GPA**: 90.94 (Rank: 3/47)
-- **Languages**: CET-6: 694, TOEFL: 112
-- **Finance Courses**: Intermediate Microeconomics, Intermediate Macroeconomics, Business Statistics, Financial Accounting Principles
-- **Computer Science Courses**: Python, C++, Data Structures, Discrete Mathematics
-- **Awards & Honors**: JunYuan Scholarship (Top 1% of the class), National College English Competition (Second Prize), Sixth Place in Table Tennis at SJTU Sports Cup
+- **GPA**: 90.94（班级排名：3/47）
+- **语言能力**：CET-6: 694，TOEFL: 112
+- **金融课程**：中级微观/宏观经济学、商业统计学、财务会计原理
+- **计算机科学课程**：Python、C++、数据结构、离散数学
+- **荣誉与奖项**：上海交通大学俊远奖学金（前1%），全国大学生英语竞赛（二等奖）
 
-### Research Experience
+### 项目经历
 
-**Jun 2024 - Oct 2024**: Major Project of the National Social Science Fund — "Research on Preventing Disorderly Expansion of Capital in the Digital Economy Era"
+**2024.06 - 2024.10**：国家社会科学基金重大项目——《数字经济时代防止资本无序扩张研究》
 
-- **Project Description**: I worked under the guidance of Professor Lü in researching the "Resource Allocation Efficiency Index System" for capital management in the digital economy.
-- **Key Tasks**:
-  1. Conducted literature review and data collection; studied advanced macroeconomic theories and applied database tools.
-  2. Independently authored the section on constructing a resource allocation efficiency index.
-- **Outcome**: The research paper is in progress and is planned for publication in a core academic journal.
+- **项目描述**：在吕教授指导下，参与项目并独立完成了“资源配置效率指标体系的构建方法及其结果”部分。
+- **主要任务**：
+  1. 文献综述、数据收集与处理：学习了高级宏观经济学，使用数据库进行研究。
+  2. 学术写作：独立撰写了资源配置效率指标体系的部分内容。
+- **成果**：学术论文已初步完成，计划在核心期刊发表。
 
-**Jan 2025 - Feb 2025**: Mathematical Modeling Competition
+**2025.01 - 2025.02**：数学建模竞赛
 
-- **Project Description**: Participated in the U.S. Mathematical Modeling Contest with a team, focusing on programming and paper writing.
-- **Key Tasks**:
-  1. Developed a Random Forest Model to analyze competition data; performed data cleaning, model training, sensitivity analysis, and performance comparison.
-  2. Implemented Python for data processing, model validation, and visualization of results.
-  3. Wrote the English paper based on model results, including the abstract, body, and conclusion.
-- **Status**: The paper has been submitted and is currently under review.
+- **项目描述**：主要负责编程和撰写英文论文。
+- **主要任务**：
+  1. 基于竞赛数据构建随机森林模型：进行数据清理、模型训练与优化、敏感度分析和模型比较。
+  2. 编程与结果可视化：使用Python进行数据清理、模型测试及结果可视化。
+  3. 论文写作：基于模型结果撰写论文的摘要、正文与结论。
+- **进展**：论文已提交，正在审核中。
 
-### Campus Involvement
+### 校园经历
 
-**Jun 2024 - Jul 2024**: International Exchange Program at the National University of Singapore (NUS)
+**2024.06 - 2024.07**：新加坡国立大学（NUS）国际交流项目
 
-- Engaged in a full English-language academic exchange focused on international finance and foreign exchange, completing a project presentation and course paper.
+- 学习内容：学习了国际前沿的金融与外汇知识，并完成了项目演讲和课程论文。
 
-**Jan 2024**: "Dreams Come True" Ambassador Program, Shanghai Jiao Tong University
+**2024.01**：上海交通大学“梦想启航”大使项目
 
-**Oct 2024 - Present**: Captain, Table Tennis Team, Antai College of Economics & Management
+**2024.10 - 至今**：安泰经济与管理学院乒乓球队队长
 
-- Organize and lead team training, recruitment, and represent the team in various competitions.
+### 技能与证书
 
-### Skills & Certifications
-
-- Fluent in English with strong proficiency in statistics; advanced knowledge of office software (PPT, Excel).
-- Expertise in Python and C++ programming, with practical experience in machine learning.
-- Excellent academic performance across both Finance and Computer Science degrees.
+- 精通英语，具备高级统计学知识，熟练使用办公软件
+- 擅长Python、C++，并具备机器学习经验
+- 双学位表现优异（金融与计算机科学）
 
 ---
 
-## Curriculum Vitae
+## 个人简历
 
-You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
+你可以在这里查看我的简历：[Yuyang Liu's CV](../assets/简历.pdf)。
