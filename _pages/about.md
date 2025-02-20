@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Young Liu's Academic Website"
+title: "Yuyang Liu's Academic Website"
 author_profile: true
 redirect_from:
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 **Phone:** (+86)18217515975  
 **Email:** Young-20050706@sjtu.edu.cn  
 
-I am a second-year undergraduate student at Antai College of Economics & Management, Shanghai Jiao Tong University. My research interests include Macroeconomics and Foreign Exchange. You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
+I am a sophomore year undergraduate student at Antai College of Economics & Management, Shanghai Jiao Tong University, and I'm currentlty major in Finance & Computer Science. My research interests include Macroeconomics and Foreign Exchange. You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
 
 
 ## Personal Profile & Educational Background  
