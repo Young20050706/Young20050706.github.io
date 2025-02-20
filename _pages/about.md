@@ -6,62 +6,63 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Yuyang Liu  
+**Phone:** (+86)18217515975  
+**Email:** Young-20050706@sjtu.edu.cn  
 
-## 关于我
+I am a second-year undergraduate student at Antai College of Economics & Management, Shanghai Jiao Tong University. My research interests include Macroeconomics and Foreign Exchange. You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
 
-我是上海交通大学安泰经济与管理学院的本科生，目前正在攻读金融与计算机科学双学士学位。我的研究兴趣包括宏观经济学和外汇领域。
 
-- **姓名**：Young Liu
-- **联系方式**：(+86) 18217515975 | Young-20050706@sjtu.edu.cn
+## Personal Profile & Educational Background  
+**Shanghai JiaoTong University** — Shanghai, China  
+**Double Bachelor Degree** in Finance and Computer Science — *Sept 2023 - Present*  
+- **GPA**: 90.94 (Ranked 3/47)  
+- **Language Proficiency**:  
+  - CET-6: 694  
+  - TOEFL: 112  
+- **Finance Courses**:  
+  - Intermediate Micro/Macro-Economics  
+  - Business Statistics  
+  - Financial Accounting Principles  
+- **Computer Science Courses**:  
+  - Python  
+  - C++  
+  - Data Structure  
+  - Discrete Mathematics  
+- **Honors and Awards**:  
+  - Shanghai JiaoTong University JunYuan Scholarship (Top 1%)  
+  - National English College Competition for College Students (Second Prize)  
 
-### 教育背景
+## Project Experience
 
-**上海交通大学**，上海，中国  
-**金融与计算机科学双学士学位**（2023年9月至今）
+### 2024.06 - 2024.10: National Social Science Fund Major Project  
+**Project**: "Research on Preventing Disorderly Expansion of Capital in the Digital Economy Era"  
+- **Project Description**: Under the guidance of Professor Lv, I participated in the project and independently completed the section on "The Resource Allocation Efficiency Indicator System and the Methods and Results of Building the Resource Allocation Efficiency Indicator."  
+- **Main Tasks**:
+  1. Literature review, data collection, processing, and analysis: Gained knowledge in advanced macroeconomics and used databases for research.  
+  2. Academic writing: Independently wrote the section on the resource allocation efficiency indicator system.  
+- **Results**: The academic paper has been preliminarily completed and is planned for publication in a core journal.  
 
-- **GPA**: 90.94（班级排名：3/47）
-- **语言能力**：CET-6: 694，TOEFL: 112
-- **金融课程**：中级微观/宏观经济学、商业统计学、财务会计原理
-- **计算机科学课程**：Python、C++、数据结构、离散数学
-- **荣誉与奖项**：上海交通大学俊远奖学金（前1%），全国大学生英语竞赛（二等奖）
+### 2025.01 - 2025.02: Mathematical Contest in Modeling  
+- **Project Description**: Mainly responsible for programming and writing the English paper.  
+- **Main Tasks**:  
+  1. Built a random forest model based on competition data: Performed data cleaning, model training and optimization, sensitivity analysis, and model comparison.  
+  2. Programming and result visualization: Used Python for data cleaning, model testing, and visualizing results.  
+  3. Paper Writing: Composed the abstract, main body, and conclusions of the paper based on model results.  
+- **Progress**: The paper has been submitted and is currently under review.  
 
-### 项目经历
+## Campus Experience  
 
-**2024.06 - 2024.10**：国家社会科学基金重大项目——《数字经济时代防止资本无序扩张研究》
+### 2024.06 - 2024.07: National University of Singapore (NUS) International Exchange Program  
+- **Learning Content**: Studied international frontier knowledge in finance and foreign exchange and completed a project presentation and a course paper.  
 
-- **项目描述**：在吕教授指导下，参与项目并独立完成了“资源配置效率指标体系的构建方法及其结果”部分。
-- **主要任务**：
-  1. 文献综述、数据收集与处理：学习了高级宏观经济学，使用数据库进行研究。
-  2. 学术写作：独立撰写了资源配置效率指标体系的部分内容。
-- **成果**：学术论文已初步完成，计划在核心期刊发表。
+### 2024.01: Shanghai Jiao Tong University "Dream Building" Ambassadors Program  
 
-**2025.01 - 2025.02**：数学建模竞赛
+### 2024.10 - Present: Captain of the Table Tennis Team, Antai College of Economics and Management  
 
-- **项目描述**：主要负责编程和撰写英文论文。
-- **主要任务**：
-  1. 基于竞赛数据构建随机森林模型：进行数据清理、模型训练与优化、敏感度分析和模型比较。
-  2. 编程与结果可视化：使用Python进行数据清理、模型测试及结果可视化。
-  3. 论文写作：基于模型结果撰写论文的摘要、正文与结论。
-- **进展**：论文已提交，正在审核中。
+## Skills and Certificates  
+- Proficient in **English**, advanced knowledge of **statistics**, proficient in using **office software**  
+- Expertise in **Python**, **C++**, and **machine learning**  
+- Excellent performance in both degrees (Finance and Computer Science)  
 
-### 校园经历
 
-**2024.06 - 2024.07**：新加坡国立大学（NUS）国际交流项目
-
-- 学习内容：学习了国际前沿的金融与外汇知识，并完成了项目演讲和课程论文。
-
-**2024.01**：上海交通大学“梦想启航”大使项目
-
-**2024.10 - 至今**：安泰经济与管理学院乒乓球队队长
-
-### 技能与证书
-
-- 精通英语，具备高级统计学知识，熟练使用办公软件
-- 擅长Python、C++，并具备机器学习经验
-- 双学位表现优异（金融与计算机科学）
-
----
-
-## 个人简历
-
-你可以在这里查看我的简历：[Yuyang Liu's CV](../assets/简历.pdf)。
