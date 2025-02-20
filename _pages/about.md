@@ -10,7 +10,11 @@ redirect_from:
 **Phone:** (+86)18217515975  
 **Email:** Young-20050706@sjtu.edu.cn  
 
-I am a sophomore year undergraduate student at Antai College of Economics & Management, Shanghai Jiao Tong University, and I'm currentlty major in Finance & Computer Science. My research interests include Macroeconomics and Foreign Exchange. You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
+I am a sophomore year undergraduate student at Antai College of Economics & Management[https://www.acem.sjtu.edu.cn/], Shanghai Jiao Tong University[https://www.sjtu.edu.cn/], and I'm currentlty major in Finance & Computer Science. My research interests include Macroeconomics and Foreign Exchange. 
+
+I was very fortunate to be advised by Professor Shoujun Lv[https://www.sipa.sjtu.edu.cn/facultydetail/qzjs/95], director of the Department of Public Economics and Social Policy, School of International and Public Affairs[https://www.sipa.sjtu.edu.cn/], Shanghai Jiao Tong University. 
+
+You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
 
 
 ## Personal Profile & Educational Background  
