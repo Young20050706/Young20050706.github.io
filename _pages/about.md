@@ -10,8 +10,6 @@ redirect_from:
 
 I am a second-year undergraduate student at the Antai College of Economics & Management, Shanghai Jiao Tong University, pursuing a dual degree in Finance and Computer Science. My academic interests are centered on Macroeconomics, Financial Technology, and Data Science.
 
-You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
-
 - **Name**: Yuyang Liu
 - **Contact**: (+86) 18217515975 | Yuyang-20050706@sjtu.edu.cn
 
@@ -65,6 +63,6 @@ You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
 
 ---
 
+## Curriculum Vitae
 
-
-
+You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
