@@ -65,6 +65,6 @@ You can find my CV here: [Yuyang Liu's CV](../assets/CV.pdf).
 
 ---
 
-## Curriculum Vitae
+
 
 
