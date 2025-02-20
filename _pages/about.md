@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second year undergraduate student from Antai College of [Economics & Management](https://www.acem.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). My research interest includes Macroeconomics and Foreign Exchange.
 
-You can find my CV here:[Yuyang Liu's CV](../assets/简历-刘雨扬 (1))
+You can find my CV here:[Yuyang Liu's CV](../assets/简历.pdf)
 
 A data-driven personal website
 ======
